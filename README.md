@@ -1,4 +1,5 @@
 **1. Description**
+
 A Python program that encrypts and decrypts text using the Caesar cipher technique. The user can choose to encode or decode a message by specifying a shift number. The program handles non-alphabet characters by leaving them unchanged. It also supports repeated usage until the user decides to exit.
 
 **2. How It Works**
